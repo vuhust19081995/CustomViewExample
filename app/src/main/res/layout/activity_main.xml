@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.workspace.customviewexample.MainActivity">
 
-    <com.workspace.customviewexample.views.PieChart
+    <com.workspace.customviewexample.views.SmileyView
         custom:showText="true"
         custom:labelPosition="left"
         android:layout_height="wrap_content"
